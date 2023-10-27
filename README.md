@@ -72,7 +72,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (34).png>)
+![Alt text](<Screenshot (33).png>)
 
 ![Alt text](<Screenshot (35).png>)
 
